@@ -1,0 +1,6 @@
+[
+  { "file": "1-deals.jpg", "path": "#/", "viewport": { "width": 1280, "height": 860 } },
+  { "file": "2-deal.jpg", "path": "#/deal/airpods-pro-3-amazon", "viewport": { "width": 1280, "height": 860 } },
+  { "file": "3-deal-phone.jpg", "path": "#/", "viewport": { "width": 390, "height": 844 } },
+  { "file": "4-tvs-filtered.jpg", "path": "#/?cat=TVs&minoff=40&sort=biggest-pct", "viewport": { "width": 1280, "height": 860 } }
+]
