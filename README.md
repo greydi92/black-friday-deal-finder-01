@@ -1,10 +1,12 @@
 # DealSleuth — Real Black Friday 2026 Deal Finder
 
-[![Black Friday 2026](https://img.shields.io/badge/Black%20Friday-2026-fca311)](https://make.fun/bounty/black-friday-deal-finder-01)
-[![Deals checked](https://img.shields.io/badge/deals%20checked-52%20on%2027%20Nov%202026-0b6e4f)](https://make.fun/bounty/black-friday-deal-finder-01)
-[![Static site](https://img.shields.io/badge/site-static%20HTML%2FCSS%2FJS-14213d)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/greydi92/black-friday-deal-finder-01/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/greydi92/black-friday-deal-finder-01/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
 
 Bounty: [Build the best real Black Friday deal finder — make.fun/bounty/black-friday-deal-finder-01](https://make.fun/bounty/black-friday-deal-finder-01)
+
+Referral code: qgn48q27
 
 ## What it is
 
